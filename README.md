@@ -20,6 +20,11 @@ Project memory is written using Latext language. What does it mean?, to convert 
 
 - **OSX Tutorial** - [Tutorial](http://sam.bitmorse.com/posts/easy-and-fast-latex-editing-with-sublime-text-2-and-skim-pdf-viewer/)
 
+### Components
+
+- `/resources` : Documents which project is based in.
+- `/helpers` : Short programs developed in  Matlab or Ruby to evaluate, calculate, and generate valuable information to attach in the memory.
+
 ### Resources
 - **Latext first steps:** [Resource](http://ricardo.ecn.wfu.edu/~cottrell/ecn297/latex_tut.pdf)
 - **Markdown cheatsheet:** [Resource](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
