@@ -1,9 +1,10 @@
 # Fdb version 3
-["pdflatex"] 1392760008 "Memory.tex" "Memory.pdf" "Memory" 1392760008
+["pdflatex"] 1392760982 "Memory.tex" "Memory.pdf" "Memory" 1392760983
   "/usr/local/texlive/2013/texmf-dist/tex/latex/base/article.cls" 1254151887 20571 b8bd218bf2e18b4f5817ee643cd9c515 ""
+  "/usr/local/texlive/2013/texmf-dist/tex/latex/base/fleqn.clo" 1254151887 3707 0625824d900a022b4f4ba15964210720 ""
   "/usr/local/texlive/2013/texmf-dist/tex/latex/base/size10.clo" 1254151887 9042 248dfba326a1b8733d6bb8e0a3ac1e49 ""
-  "Memory.aux" 1392760008 8 a94a2480d3289e625eea47cd1b285758 ""
-  "Memory.tex" 1392760008 59 298ffc2f82a7070dcf998673d65fae63 ""
+  "Memory.aux" 1392760983 156 8086d068c170a6bc685ed9027d8ab764 ""
+  "Memory.tex" 1392760978 286 bf62df5f1de4a7d5428d5f7f777c35c8 ""
   (generated)
   "Memory.pdf"
   "Memory.aux"
