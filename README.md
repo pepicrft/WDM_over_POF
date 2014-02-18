@@ -28,3 +28,18 @@ Project memory is written using Latext language. What does it mean?, to convert 
 ### Resources
 - **Latext first steps:** [Resource](http://ricardo.ecn.wfu.edu/~cottrell/ecn297/latex_tut.pdf)
 - **Markdown cheatsheet:** [Resource](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+
+## Pending reads
+| *Read* | *Title* |
+| ---- | ----------------- |
+| NO | Gigabit Communications over Plastic Optical Fiber |
+| NO | A Novel Star Topology POF-WDM System |
+| NO | Investigation on spectral grids for VIS WDM applications over SI- POF |
+| NO | Integrated WDM System for POF Communications with Low Cost Injection Moulded Key Components |
+| NO | Compact, Low-Crosstalk, WDM Filter Elements for Multimode Ribbon Fiber Data Links |
+| NO | Design and Development of a Mux/Demux Element for WDM over POF |
+| NO | Low-cost Cascaded 1x4 Polymer Optical Fiber Coupler for Multiplexing Wavelengths |
+| NO | Cost-efficient WDM QAM Transmission of 100 Mbit/s over 100m 1nm Core diameter polymer optical fiber |
+| NO | Passively Aligned Transmit Optical Subassembly Module Based on a WDM Incorporating VCSELs |
+| NO | 10.7-Gb/s Discrete Multitone Transmission Over 50-m SI-POF Based on WDM TECHNOLOGY |
